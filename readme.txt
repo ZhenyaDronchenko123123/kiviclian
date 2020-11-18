@@ -1,3 +1,3 @@
-# Shoe Shine Website
+Shoe Shine Website
 
 Link: https://kiviclean.by/
